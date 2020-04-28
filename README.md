@@ -1,8 +1,6 @@
 # sentiment-analysis
 This is a classifier to predict whether a movie review is positive or negative
 
-This was my capstone project for the Advanced Machine Learning course at UW.
-
 This was my capstone project for the Advanced Machine Learning class in the Machine Learning Certificate Program at the University of Washington - Professional and Continuing Education
 
 Spencer K'Burg
